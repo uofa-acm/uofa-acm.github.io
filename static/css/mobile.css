@@ -1,0 +1,68 @@
+ p {
+    font-size: 200%;
+}
+
+header {
+    height: 100px;
+}
+
+header > nav {
+    margin-bottom: 20px;
+    display: block;
+    font-size: 140%;
+    text-align: center;
+    width: 100%;
+    position: static;
+}
+
+header > nav #___plusone_0 {
+    margin-bottom: 20px;
+    display: none !important;
+}
+
+#logo h1,
+#logo h2 {
+    float: none;
+    display: none;
+}
+
+#logo {
+    width: 40px !important;
+    height: 40px;
+    clear: both;
+    display: block;
+    position: static;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#logo h1 {
+    font-size: 120%;
+}
+
+.block h2 {
+    font-size: 220% !important;
+}
+
+.block h1 {
+    font-size: 250% !important;
+}
+
+.block h2 {
+    font-size: 125% !important;
+}
+
+.block h4 {
+    font-size: 180%;
+}
+
+.block {
+    float: none;
+    display: block;
+    width: 100% !important;
+}
+
+#github {
+    display: none;
+}

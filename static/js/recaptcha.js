@@ -1,0 +1,1 @@
+var RecaptchaOptions = {'theme': 'clean'};

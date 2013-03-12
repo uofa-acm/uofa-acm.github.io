@@ -1,0 +1,4 @@
+name: University of Arizona ACM
+markdown: rdiscount
+auto: true
+permalink: pretty

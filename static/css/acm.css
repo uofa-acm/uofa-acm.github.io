@@ -1,0 +1,438 @@
+html {
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+	width: 95%;
+	margin: 0 auto;
+	padding-top: 10px;
+    max-width: 1200px;
+}
+
+strong {
+	font-weight: bold;
+}
+
+
+.link-like,
+a { 
+	font-family: 'Lato', serif;
+	color: #000;
+}
+
+
+p {
+	font-family: 'Lato', serif;
+	line-height: 1.3em;
+	font-size: 120%;
+    margin-bottom: 15px;
+}
+
+header {
+	margin-top: 5px;
+    width: 100%;
+    margin-bottom: 10px;
+    position: relative;
+    height: 60px;
+}
+
+div.logo {
+	background: url(../../static/img/arizona.png) left no-repeat;
+}
+
+header h1 {
+	margin-left: 40px;
+	font-family: 'Lato', serif;
+	font-size: 150%;
+	font-weight: bold;
+}
+
+header h2 {
+	font-family: 'Lato', serif;
+	font-size: 16px;
+    color: #666;
+    letter-spacing: 1px;
+	margin-left: 50px;
+}
+
+
+h5 {
+	font-family: 'Lato', serif;
+    font-weight: bold;
+}
+
+header a {
+    text-decoration: none;
+}
+
+header > nav {
+    position: absolute;
+    top: 28px;
+    right: 75px;
+    font-size: 95%;
+    text-align: right;
+}
+
+header > nav a:hover {
+    border-bottom: 2px solid #333;
+}
+
+
+header > .logo {
+    width: 400px;
+    position: absolute;
+    left: 0;
+}
+
+#feed {
+	width: 48%;
+	margin-left: 2%;
+	float: right;
+	margin-bottom: 10px;
+}
+
+header + section {
+	clear: both;
+}
+
+#feed a {
+}
+
+#feed a + h1 {
+	margin-top: 10px;
+}
+
+#links {
+	clear: both;
+	width: 100%;
+	font-size: 18px;
+	text-align: left;
+	padding: 5px 0;
+	border-bottom: 2px solid #333;
+}
+
+
+.right,
+#talks {
+	float: right;
+	width: 48%;
+	margin-left: 2%;
+}
+
+.block h1 {
+	line-height: 1.25em;
+    font-size: 24px;
+    font-family: 'Lato', serif;
+    font-weight: bold;
+}
+
+.block h2 {
+	font-family: 'Lato', serif;
+	font-size: 16px;
+	border-bottom: 3px solid #333;
+	padding-bottom: 0.4em;
+	margin-bottom: 5px;
+	color: #666;
+}
+
+.block h3 {
+	font-size: 180%;
+	font-family: 'Lato', serif;
+	font-weight: bold;
+	border-bottom: 1px dashed #666;
+	padding: 10px 0;
+}
+
+.block h4 {
+	font-size: 130%;
+	font-family: 'Lato', serif;
+	font-weight: bold;
+	border-bottom: 1px dashed #CCC;
+	padding: 5px 0;
+	margin-bottom: 0.6em;
+}
+
+.block p + h4 {
+	margin-top: 10px;
+}
+
+
+.block time {
+	font-size: 24px;
+	padding-top: 10px;
+	color: #666;
+	color: #CC0033;
+	font-family: 'Lato', serif;
+    font-weight: bold;
+	display: block;
+}
+
+.block h4 em {
+	font-weight: normal;
+	color: #666;
+}
+	
+
+.block hr {
+	border: 0;
+	border-top: 2px solid #333;
+	height: 2px;
+}
+
+.block li {
+    font-size: 110%;
+    margin-bottom: 5px;
+}
+
+.block ul + h1 {
+    margin-top: 40px;
+}
+
+
+.left,
+#events {
+	width: 45%;
+	clear: left;
+}
+
+.red {
+	color: #CC0033;
+}
+
+.blue {
+	color: #003366;
+}
+
+.hidden {
+	display: none;
+}
+
+.large-links {
+	font-size: 16px;
+}
+
+.full-page {
+    width: 100%;
+    line-height: 1.1em;
+}
+
+.full-page h1 {
+    margin-bottom: 10px;
+}
+
+.link {
+    cursor: pointer;
+}
+
+/* Subscription */
+
+#subscribe {
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+
+#subscribe p {
+    max-width: 600px;
+}
+
+fieldset {
+    padding: 10px;
+    border-radius: 5px;
+}
+
+label {
+	font-family: 'Lato', serif;
+	font-size: 120%;
+    float: left;
+}
+
+#subscribe label {
+    width: 80px;
+    margin-top: 5px;
+}
+
+#subscribe textarea,
+#subscribe input[type="email"],
+#subscribe input[type="text"] {
+    width: 200px;
+    font-size: 100%;
+    font-family: 'Lato', serif;
+    background-clip        : padding-box;
+    background-color: #FFF;
+    background-image: linear-gradient(top, #f4f4f4 20%, #f0f0f0 50%, #e8e8e8 52%, #eeeeee 100%); 
+    box-shadow: 0 0 2px #ffffff inset, 0 1px 0 rgba(0,0,0,0.05);
+    color: #333;
+    border: 1px solid #aaaaaa;
+    line-height: 13px;
+    padding: 3px 20px 3px 5px;
+    position: relative;
+    cursor: default;
+}
+
+#subscribe textarea {
+    width: 500px;
+    height: 200px;
+}
+
+#subscribe input[type="submit"] {
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+#subscribe select {
+    width: 400px;
+}
+
+/* Meta CSS */
+
+.clear {
+    clear: both;
+}
+
+div.shadow-top {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0px;
+    box-shadow: 0px 0px 5px 5px #CCC;
+}
+
+div.shadow-bottom {
+    position: fixed;
+    bottom: 0px;
+    left: 0;
+    width: 100%;
+    height: 0px;
+    box-shadow: 0px 0px 5px 5px #CCC;
+}
+
+#recaptcha_widget_div {
+    margin-left: 80px;
+}
+
+span.error {
+	color: #CC0033;
+	font-family: 'Lato', serif;
+    font-size: 90%;
+    font-weight: bold;
+}
+
+h1 + span.error {
+    display: block;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+span.hint {
+    clear: left;
+    display: block;
+    margin-left: 80px;
+    color: #666;
+	font-family: 'Lato', serif;
+    font-size: 12px;
+}
+
+footer {
+    font-family: 'Lato', serif;
+    font-size: 90%;
+    color: #CCC;
+    text-align: center;
+    clear: both;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+section.content {
+    width: 85%;
+    border-left: 8px solid #EFEFEF;
+    padding-left: 10px;
+}
+
+code,
+pre {
+    font-family: "Courier New", "Monaco", "Bitstream Vera sans Mono";
+    background-color: #EFEFEF;
+    padding: 3px;
+    border: 1px solid #CCC;
+    font-weight: normal !important;
+}
+
+p > code {
+    display: inline;
+    margin-bottom: 0px;
+    font-size: 70% !important;
+}
+
+pre,
+code {
+    display: block;
+    font-size: 90%;
+    margin-bottom: 10px;
+}
+
+section.content h1 {
+    font-size: 175% !important;
+}
+
+section.content h2 {
+    font-size: 150%;
+    border-color: #EFEFEF;
+}
+
+.header-red h1 {
+	color: #CC0033;
+}
+
+code {
+    font-weight: normal;
+    white-space: pre-wrap;
+}
+
+li ul li {
+    list-style: circle;
+    margin-left: 30px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size: 90% !important;
+}
+
+.faded time,
+.faded p,
+.faded a,
+.faded em,
+.faded {
+    color: #999 !important;
+}
+
+.width-600 {
+    width: 600px;
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.break {
+    width: 100%;
+    margin-top: 50px;
+    display: block;
+}
+
+
+.clicktoshow {
+    margin-bottom: 20px;
+    color: #555;
+    font-family: 'Lato', serif;
+    font-size: 115%;
+    cursor: pointer;
+}
+
+.clicktoshow:hover {
+    color: #333;
+}
+
+
