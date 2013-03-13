@@ -2,6 +2,7 @@
 layout: post
 title: Go and more
 smalltext: Justin Van Horne
+tags: talk
 ---
 
 Our first lightning talk of the semester kicks off with an introduction to Go.

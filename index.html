@@ -6,17 +6,22 @@ layout: default
   <h1>Talks</h1>
   <h2>Lightning talks and more. Every Thursday in GS-906 from 5PM-6PM</h2>
 
-  {% for post in site.posts %}
+  {% for post in site.tags.talk limit:5 %}
     {% assign content = post.content %}
     {% include post_detail.html %}
   {% endfor %}
+
+  <p><a class='red' href='/talks'>View all talks</a></p>
 </section>
 
 <section id='events' class='block'>
   <h1>Events</h1>
-  <h2>Lightning talks and more. Every Thursday in GS-906 from 5PM-6PM</h2>
+  <h2>Local events, meet-ups, and more</h2>
 
-  <time datetime=''>February 15th</time>
-  <h4>Title</h4>
-  <p>Text content</p>
+  {% for post in site.tags.event limit:5 %}
+    {% assign content = post.content %}
+    {% include post_detail.html %}
+  {% endfor %}
+
+  <p><a class='red' href='/events'>View all events</a></p>
 </section>
