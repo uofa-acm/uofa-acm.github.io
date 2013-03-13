@@ -7,9 +7,8 @@ layout: default
   <h2>Lightning talks and more. Every Thursday in GS-906 from 5PM-6PM</h2>
 
   {% for post in site.posts %}
-    <time datetime='{{ post.date }}'>{{ post.date | date_to_string }}</time>
-    <h4>{{ post.body }}</em></h4>
-    <p>test</p>
+    {% assign content = post.content %}
+    {% include post_detail.html %}
   {% endfor %}
 </section>
 
