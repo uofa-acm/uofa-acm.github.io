@@ -19,7 +19,6 @@ layout: default
   <h2>Local events, meet-ups, and more</h2>
 
   {% for post in site.tags.event limit:5 %}
-    {% assign content = post.content %}
     {% include post_detail.html %}
   {% endfor %}
 

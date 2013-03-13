@@ -9,7 +9,6 @@ title : Events Past and Present
 <h2>Information on past and upcoming events</h2>
 
 {% for post in site.tags.event %}
-  {% assign content = post.content %}
   {% include post_detail.html %}
 {% endfor %}
 
