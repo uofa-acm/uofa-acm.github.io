@@ -1,0 +1,20 @@
+---
+layout: default
+title: Talks, Past and Present
+---
+
+<section class='block width-600 center'>
+
+<h1>All Talks</h1>
+<h2>Information on past and upcoming talks</h2>
+
+{% for post in site.posts %}
+{% if post.tags contains 'talk' %}
+
+<time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%b %d, %Y"}}</time>
+<h4>{{post.title}} <em>({{post.author}})</em></h4>
+<p>{{post.content}}</p>
+
+{% endif %}
+{% endfor %}
+</section>
