@@ -2,6 +2,7 @@
 layout: post
 title: Go and more
 smalltext: Justin Van Horne
+summary: Justin introduces Go and all the cool things it does
 tags: talk
 ---
 
