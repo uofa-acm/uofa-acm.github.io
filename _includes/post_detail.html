@@ -1,3 +1,13 @@
 <time datetime='{{ post.date }}'>{{ post.date | date: "%B %d, %Y" }}</time>
 <h4><a href='{{ post.url }}'>{{ post.title }}</a>{% if post.smalltext %} <em>({{ post.smalltext }})</em>{% endif %}</h4>
-<p>{% if page.url == '/index.html' %}{{ post.content | truncatewords: 15 }}{% else %} {{post.content}}{% endif %}</p>
+<p>
+{% if page.url == '/index.html' %}
+  {% if post.summary %}
+    {{post.summary}}
+  {% else %}
+    {{ post.content | truncatewords: 15 }}
+  {% endif %}
+{% else %}
+  {{post.content}}
+{% endif %}
+</p>
