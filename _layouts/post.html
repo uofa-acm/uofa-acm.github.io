@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+<section class='block width-800 center'>
+  <time datetime='{{ page.date }}'>{{ page.date | date: "%B %d, %Y" }}</time>
+  <h1>{{ page.title }}</h1>
+  <h2>{% if page.smalltext %}{{ page.smalltext }}{% endif %}</h2>
+  <p>{{ content }}</p>
+</section>

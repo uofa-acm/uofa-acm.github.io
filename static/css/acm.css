@@ -152,6 +152,14 @@ header + section {
 	margin-bottom: 0.6em;
 }
 
+.block h4 > a {
+    text-decoration: none;
+}
+
+.block h4 > a:hover {
+    text-decoration: underline;
+}
+
 .block p + h4 {
 	margin-top: 10px;
 }
@@ -410,6 +418,10 @@ li ul li {
 
 .width-600 {
     width: 600px;
+}
+
+.width-800 {
+    width: 800px;
 }
 
 .center {

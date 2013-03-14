@@ -7,7 +7,6 @@ layout: default
   <h2>Lightning talks and more. Every Thursday in GS-906 from 5PM-6PM</h2>
 
   {% for post in site.tags.talk limit:5 %}
-    {% assign content = post.content %}
     {% include post_detail.html %}
   {% endfor %}
 
