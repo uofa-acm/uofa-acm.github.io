@@ -4,9 +4,9 @@ uofa-acm.github.com
 Adding Your Talk
 -------------
 
-the filename of your post should be YYYY-MM-DD-Some-Title.md
+the filename of your post should be YYYY-MM-DD-Some-Title.md, where YYYY-MM-DD is the date of your talk.
 
-the file should have the following layout:
+###the file should have the following layout:
 
 \-\-\-
 
