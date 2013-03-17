@@ -24,5 +24,5 @@ tags: talk
 
 A full description of your talk goes here.
 
-You can link to your website or presentation like this: \[example link\]\(http://example.com/\)
+You can link to your website or presentation like this: \[example link\]\(http://example.com/)
 
