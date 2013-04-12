@@ -6,6 +6,8 @@ summary: As a student of Computer Science, how can you make a positive impact on
 tags: talk
 ---
 
+[Slides](/slides/solving-interdisciplinary-problems.html)
+
 As a student of Computer Science, how can you make a positive impact on
 problems in other majors? Short overview of applying CS techniques and
 culture to solving traditional engineering problems.
