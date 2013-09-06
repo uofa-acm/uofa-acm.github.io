@@ -33,26 +33,28 @@ header {
     width: 100%;
     margin-bottom: 10px;
     position: relative;
-    height: 60px;
+    height: 90px;
 }
 
 div.logo {
-	background: url(../../static/img/arizona.png) left no-repeat;
+	background: url(../../static/img/az_small.png) left no-repeat;
+    height: 90px;
 }
 
 header h1 {
-	margin-left: 40px;
+    padding-top: 20px;
+	margin-left: 90px;
 	font-family: 'Lato', serif;
-	font-size: 150%;
+	font-size: 200%;
 	font-weight: bold;
 }
 
 header h2 {
 	font-family: 'Lato', serif;
-	font-size: 16px;
+	font-size: 17px;
     color: #666;
     letter-spacing: 1px;
-	margin-left: 50px;
+	margin-left: 90px;
 }
 
 
@@ -152,14 +154,6 @@ header + section {
 	margin-bottom: 0.6em;
 }
 
-.block h4 > a {
-    text-decoration: none;
-}
-
-.block h4 > a:hover {
-    text-decoration: underline;
-}
-
 .block p + h4 {
 	margin-top: 10px;
 }
@@ -169,7 +163,7 @@ header + section {
 	font-size: 24px;
 	padding-top: 10px;
 	color: #666;
-	color: #CC0033;
+	color: #AB0520;
 	font-family: 'Lato', serif;
     font-weight: bold;
 	display: block;
@@ -204,7 +198,7 @@ header + section {
 }
 
 .red {
-	color: #CC0033;
+	color: #AB0520;
 }
 
 .blue {
@@ -321,7 +315,7 @@ div.shadow-bottom {
 }
 
 span.error {
-	color: #CC0033;
+	color: #AB0520;
 	font-family: 'Lato', serif;
     font-size: 90%;
     font-weight: bold;
@@ -418,10 +412,6 @@ li ul li {
 
 .width-600 {
     width: 600px;
-}
-
-.width-800 {
-    width: 800px;
 }
 
 .center {
