@@ -5,7 +5,7 @@ summary: Come hear about the various CS related activities club members were up 
 tags: talk
 ---
 
-Having a solid background in computer science provies one with many
+Having a solid background in computer science provides one with many
 interesting opportunities.  Come hear about what club members have done with
 their computer science skills and education.
 
