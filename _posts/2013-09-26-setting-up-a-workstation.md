@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting up a Workstation for Software Development
-smalltext: Presenters TBA
+smalltext: Ben and Roey
 tags: talk
 ---
 
