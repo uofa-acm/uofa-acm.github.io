@@ -9,3 +9,10 @@ This week, Ben and Roey will be presenting some best-practices for efficient sof
 
 These presentations are designed to give you a solid overview of these tools, so if you are new to all of this, no worries! If you have a Mac, Linux or Windows laptop, feel free to bring it and follow along with the presenters.
 
+vim resources:
+ftp://ftp.vim.org/pub/vim/doc/book/vimbook-OPL.pdf
+http://www.fprintf.net/vimCheatSheet.html
+
+git resources:
+http://gitolite.com/gcs/index.html
+http://try.github.io/levels/1/challenges/1
