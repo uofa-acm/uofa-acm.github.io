@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \#uofa-acm on Freenode
+title: &#35;uofa-acm on Freenode
 summary: We now have our own IRC channel on Freenode!
 tags: event
 ---
