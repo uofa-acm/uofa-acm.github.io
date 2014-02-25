@@ -10,7 +10,7 @@ semester and that is: at some time before your talk, you **MUST** submit a pull
 request to the [uofa-acm](http://www.github.com/uofa-acm/uofa-acm.github.io)
 GitHub repository with a post describing the talk you are giving. There are
 examples already on the website and a description in the
-[README](http://www.github.com/uofa-acm/uofa-acm.github.io/blob/README.md).
+[README](https://github.com/uofa-acm/uofa-acm.github.io/blob/master/README.md).
 
 This allows us to keep the website updated with summaries of your talks and
 advertise them appropriately.  If you have any questions or run into any,
