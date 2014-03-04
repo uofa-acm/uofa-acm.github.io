@@ -2,8 +2,7 @@
 layout: post
 title: Two Dollar Computing
 smalltext: Chas Leichner
-summary: Microcontrollers, Turing-completeness, and the art of blinky-flashy:
-A look at the extreme low-end of computer hardware.
+summary: Microcontrollers, Turing-completeness, and the art of blinky-flashy - A look at the extreme low-end of computer hardware.
 tags: talk
 ---
 A short explanation of software development for embedded systems, with examples
