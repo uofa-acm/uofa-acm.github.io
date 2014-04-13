@@ -20,8 +20,6 @@ Examples are shown as visualizations done in processing. Processing.js is a
 visualization language which compiles to JavaScript and renders into fancy
 graphics. Code examples require no experience in processing is required.
 
-![hope you like being a ginger]
-(http://24.media.tumblr.com/tumblr_lz02dcQCyh1r4z0wro4_1280.png)
+![hope you like being a ginger](http://24.media.tumblr.com/tumblr_lz02dcQCyh1r4z0wro4_1280.png)
 
-![haters gonna hate]
-(http://37.media.tumblr.com/21d649ddd61529aae235647ce89c6b3e/tumblr_mw7wlriOhZ1t0dhjvo1_400.gif)
+![haters gonna hate](http://37.media.tumblr.com/21d649ddd61529aae235647ce89c6b3e/tumblr_mw7wlriOhZ1t0dhjvo1_400.gif)
