@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WICS-sponsored Bowling at Lucky Strike
-tags: event
+tags: announcement
 ---
 
 WICS is sponsoring a bowling night at [Lucky Strike](http://goo.gl/maps/u8cEu)

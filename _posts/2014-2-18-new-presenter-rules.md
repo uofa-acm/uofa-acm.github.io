@@ -2,7 +2,7 @@
 layout: post
 title: New ACM Presenter Rules
 summary: Look here if you are presenting any time in the near future.
-tags: event
+tags: announcement
 ---
 
 We are announcing a new rule for everyone who is presenting to the club this

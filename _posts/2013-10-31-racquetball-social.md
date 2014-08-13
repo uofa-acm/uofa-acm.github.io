@@ -2,7 +2,7 @@
 layout: post
 title: Racquetball Social
 summary: Come play racquetball with ACM club memebers after the meeting!
-tags: event
+tags: announcement
 ---
 
 As it turns out, a majority of our active members have played racquetball up 5 times or more.  (yes, that is mathematically

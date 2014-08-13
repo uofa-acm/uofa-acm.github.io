@@ -2,7 +2,7 @@
 layout: post
 title: uofa-acm on Freenode
 summary: We now have our own IRC channel on Freenode!
-tags: event
+tags: announcement
 ---
 
 We now have our own channel on Freenode for any and everyone to join, chat with

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ISTA 420/520 Applied CI Concepts"
-tags: event
+tags: announcement
 ---
 
 This class will count towards a CSc tech-elective and is three units.
