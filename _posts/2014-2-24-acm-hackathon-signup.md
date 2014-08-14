@@ -2,7 +2,7 @@
 layout: post
 title: ACM Hackathon Signup!
 summary: Signup for the ACM Hackathon right now!
-tags: event
+tags: announcement
 ---
 
 Signups for the 2014 ACM Hackathon are now open! Click the link below to fill

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ACM Annual Programming Competition
-tags: event
+tags: announcement
 ---
 
 October 12th, 9am - 2pm, Gould Simpson 2nd Floor Computer Lab.

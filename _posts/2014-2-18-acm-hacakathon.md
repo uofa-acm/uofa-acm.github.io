@@ -2,7 +2,7 @@
 layout: post
 title: ACM Hacakthon
 summary: Come participate in the first ACM Hackathon on February 28th!
-tags: event
+tags: announcement
 ---
 
 On February 28th thru March 1st, we will be hosting our very first Hackathon
