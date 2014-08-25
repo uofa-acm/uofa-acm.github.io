@@ -17,7 +17,7 @@ layout: default
   <h1>Announcements</h1>
   <h2>Local events, meet-ups, and more</h2>
 
-  {% for post in site.tags.event limit:5 %}
+  {% for post in site.tags.announcement limit:5 %}
     {% include post_detail.html %}
   {% endfor %}
 
