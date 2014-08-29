@@ -3,7 +3,8 @@
 }
 
 header {
-    height: 100px;
+    height: auto;
+    margin-bottom: 10px;
 }
 
 header > nav {
