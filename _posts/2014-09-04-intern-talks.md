@@ -3,7 +3,8 @@ layout: post
 title: 2014 Summer Internship Talks
 smalltext: Jeremy Mowery, Joshua Koike, Brett Carr, Chris Chapline,
     Zach Montoya, Matt Gautreau, Benjamin Dicken
-summary: A brief sentence about your talk
+summary: Some of our members will present 5-10 minute talks on the work that they
+    did over the summer
 tags: talk
 ---
 
