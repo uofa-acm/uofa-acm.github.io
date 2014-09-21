@@ -28,3 +28,7 @@ If you want to read ahead a little (highly encouraged!) check out:
 
 1. [Getting Started with Git](http://git-scm.com/book/en/Getting-Started)
 2. [Git Basics](http://git-scm.com/book/en/Git-Basics)
+
+If you have any questions, feel free to email the group and we will do our best
+to help.  Just to remind you,
+[this is the email group](https://groups.google.com/forum/#!forum/uofa-acm)
