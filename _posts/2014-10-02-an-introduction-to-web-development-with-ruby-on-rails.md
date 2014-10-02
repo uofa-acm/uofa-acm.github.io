@@ -17,3 +17,5 @@ will move into a basic exploration of Ruby on Rails.
 There will also be a small demonstration to show how quickly and easily
 Ruby on Rails allows you to build a website, just by using an
 object-oriented mindset, even with minimal knowledge of databases.
+
+The slides associated with this talk can be found [here](/slides/2014-10-02-an-introduction-to-web-development-with-ruby-on-rails.pdf)
