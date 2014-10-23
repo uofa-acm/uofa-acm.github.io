@@ -17,8 +17,10 @@ For more details, see the links below:
 
 [READ THIS](http://icpc.baylor.edu/regionals/rules#HBasicRequirements) before you sign up
 
-[Sign up form](https://docs.google.com/…/1wXKlsruQbVuTjBVL6Lx9sy…/viewform…) (must be logged into UA account)
+[Sign up form](https://docs.google.com/a/email.arizona.edu/forms/d/1wXKlsruQbVuTjBVL6Lx9sy3-gC-Aw4Ov7v17GTup1p4/viewform?usp=send_form) (must be logged into UA account)
 
 [ACM-ICPC website](http://icpc.baylor.edu/)
 
 Complete list of [rules](http://icpc.baylor.edu/regionals/rulesk) for participants
+
+Last year's [problems and solutions](https://github.com/cjlarose/ACM-ICPC-Local-2013)
