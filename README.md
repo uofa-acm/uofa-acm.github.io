@@ -72,7 +72,7 @@ for additional Markdown syntax
 The filename of your post should be YYYY-MM-DD-firstname-lastname.md, where YYYY-MM-DD is the current date.
 The file you create should go in the _post/members directory of the project.
 
-***We are currently working on fixing this so it is not in the posts directory and does not require a date in the filename.***
+***We are currently working on fixing this so it is not in the posts directory and does not require a date in the filename. Stay tuned!***
 
 ###the file should have the following layout:
 
@@ -80,7 +80,7 @@ The file you create should go in the _post/members directory of the project.
 ---
 layout: member
 name: First and Last name
-email: netID@email.arizona.edu
+email: email@address.com
 tags: members
 ---
 
