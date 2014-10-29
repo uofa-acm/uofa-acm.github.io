@@ -65,3 +65,28 @@ You can link to your website or presentation like this: [example link](http://ex
 ```
 Any other Markdown styling will work.  See [here](http://daringfireball.net/projects/markdown/syntax)
 for additional Markdown syntax
+
+
+## Adding Your Member Bio
+
+The filename of your post should be YYYY-MM-DD-firstname-lastname.md, where YYYY-MM-DD is the current date.
+The file you create should go in the _post/members directory of the project.
+
+***We are currently working on fixing this so it is not in the posts directory and does not require a date in the filename.***
+
+###the file should have the following layout:
+
+```
+---
+layout: member
+name: First and Last name
+email: netID@email.arizona.edu
+tags: members
+---
+
+Your full bio goes here.
+
+You can link to your website, github, or linkedin profiles like this: [example link](http://example.com/)
+```
+Any other Markdown styling will work.  See [here](http://daringfireball.net/projects/markdown/syntax)
+for additional Markdown syntax
