@@ -1,0 +1,15 @@
+---
+layout: default
+title: Members
+---
+
+<section class='block width-600 center'>
+
+<h1>Meet our members!</h1>
+<h2>A list of current and past members.</h2>
+
+{% for post in site.tags.members %}
+  {% include member_detail.html %}
+{% endfor %}
+
+</section>
