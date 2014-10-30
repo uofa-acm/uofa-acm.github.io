@@ -10,6 +10,10 @@ Following up with Matt Gautreau's talk earlier in the semester, we'll be
 discussing the purpose and functionality of maintaining projects in both
 local and remote repositories using Git and Github.
 
+We'll be starting with a coding problem from 
+[HackerRank](https://www.hackerrank.com/) in preparation for the programming
+competition this weekend.
+
 We'll also have an interactive portion wherein users can fork from the 
 [U of A ACM Homepage Repository](https://github.com/uofa-acm/uofa-acm.github.io),
 implement their own member profile, and post the results to the live ACM 
