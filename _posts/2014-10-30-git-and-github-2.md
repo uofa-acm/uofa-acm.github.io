@@ -15,7 +15,7 @@ We'll also have an interactive portion wherein users can fork from the
 implement their own member profile, and post the results to the live ACM 
 website!
 
-To prepare yourself, [Install Git](githttp://git-scm.com/book/en/Getting-Started-Installing-Git)
+To prepare yourself, [Install Git](http://git-scm.com/book/en/Getting-Started-Installing-Git)
 and [create a Github account](https://github.com/) before the meeting if possible
 
 Also, check out the [Git Immersion tutorial](http://gitimmersion.com/) if you want
