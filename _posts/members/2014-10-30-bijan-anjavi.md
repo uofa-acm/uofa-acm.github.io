@@ -4,5 +4,10 @@ name: Bijan Anjavi
 email: banjavi@email.arizona.edu
 tags: members
 ---
-Your full bio goes here.
-You can link to your website, github, or linkedin profiles like this: [example link](http://example.com/)
+Major: Computer Science
+Minor: Pre-Law Thematics
+Interests: Programming, Web Development & Design, Intellectual Property/Patent Law 
+---
+[GitHub](https://github.com/BijanCS)
+[LinkedIn](https://www.linkedin.com/in/bijananjavi)
+[Personal Site](https://bijananjavi.com)
