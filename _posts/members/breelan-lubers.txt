@@ -1,0 +1,11 @@
+---
+layout: member
+name: "Breelan Lubers"
+email: breelanl@email.arizona.edu
+tags: members
+---
+
+Hello! I'm a transfer student  in my first year of computer science.
+I currently have a job here at the University of Arizona with the Bio Computing Facility under the Arizona Research Labs umbrella. I work on web apps using nodejs, Ionic, and AngularJS.<br>
+<br>
+[GitHub](http://www.github.com/Breelan)
