@@ -21,7 +21,8 @@ school year:
 * [Eric Newberry](mailto:enewberry@cs.arizona.edu) (Vice President): Junior - Computer Science
 * [Dori Steinbach](mailto:dsteinbach@cs.arizona.edu) (Treasurer): Senior - Computer Science/Math
 
+<br>
 We're really excited to be kicking off the club! Feel free to drop us a line on
-[Facebook](https://www.facebook.com/groups/346480612129652/) if you have anything that you would
-like to give a talk on or have a particular topic that you would be interested in hearing a talk
-on!
+[Facebook](https://www.facebook.com/groups/346480612129652/) or
+[email the officers](mailto:acmofficers@cs.arizona.edu)if you have anything that you would like to
+give a talk on or have a particular topic that you would be interested in hearing a talk on!
