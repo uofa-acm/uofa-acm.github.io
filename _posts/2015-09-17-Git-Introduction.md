@@ -297,3 +297,5 @@ Coming soon...
 
 [Intermediate Git](https://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/) - More
 complicate git commands
+
+[Pro Git](http://git-scm.com/book/en/v2) - Scott Chacon and Ben Straub's "Pro Git" book is available online for free. From very basics to git internals. Good stuff.
